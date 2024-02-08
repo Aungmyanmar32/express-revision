@@ -1,0 +1,12 @@
+[
+  { "email": "aung@web.de", "password": "12345678" },
+  { "email": "aungm@gmail.com", "password": "123456" },
+  {
+    "email": "test2@gmail.com",
+    "password": "$2a$10$1pOQSJfJUXwHDoR5PtlEnO9WyBAZ8.E84m6FnkwJcn3GJk54aZDSi"
+  },
+  {
+    "email": "test3@gmail.com",
+    "password": "$2a$10$0Dafrq3XmZ50USDShQjsvOZLmgpHBXymIiZY0WBT29QvNoL6bc6Ou"
+  }
+]

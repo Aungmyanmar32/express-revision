@@ -35,8 +35,6 @@ fetch("url",{
 */
 app.post("/", (req: Request, res: Response) => {
   const data = req.body;
-  console.log(data);
-
   const existingData = fs.readFileSync("data.json").toString();
   const existArray = JSON.parse(existingData);
   const newArray = [...existArray, data];
